@@ -1580,7 +1580,7 @@ class Pizza:
     
     def orderpay(sf,x):
         
-        messagebox.showinfo("Pay","Payment Method is not available now")
+        messagebox.showinfo("Pay","Proceeding to payment gateway...")
         
 x=Pizza()
 x.main()
